@@ -13,8 +13,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*PLATFORM USED*: VISUAL STUDIO CODE
-
 This project demonstrates how to integrate data from the OpenWeatherMap API and visualize it using Python libraries. The primary goal is to fetch real-time weather data for a specified city and display key weather metrics like temperature, humidity, and pressure in a visually appealing manner. The tools utilized for this project include the requests library for API integration and matplotlib and seaborn for data visualization. By combining API integration with data visualization, this project provides valuable insights into weather conditions and enhances understanding through graphical representations.
 
 Tools and Libraries Used:
